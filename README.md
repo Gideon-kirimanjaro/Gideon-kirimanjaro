@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning web development and data science.
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Improve my stack and learn new languages
+- 🥅 2022 Goals: Improve my stack and learn new languages
 - ⚡ Fun fact: My second name is Kirimanjaro 
 
 ### Connect with me:
