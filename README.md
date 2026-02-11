@@ -1,4 +1,4 @@
-- ### Hi there, I'm Kirimanjaro 👋
+- ### Hi there, I'm Kirimanjaro 👋. I love the web and data.
 
 
 
